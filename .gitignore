@@ -1,0 +1,28 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+.env.*
+
+# Python cache / build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# OS/editor noise
+.DS_Store
+.vscode/
+
+# Archive files
+*.zip
+*.tar
+*.gz
+*.pkl
